@@ -40,7 +40,7 @@ namespace fofGuitarController_driver
         byte VK_F5 = 0x74;
         byte VK_RETURN = 0x0D;
 
-        async Task PressKey(byte keyCode, int sleeptime)
+        void PressKey(byte keyCode, int sleeptime)
         {
             const int KEYEVENTF_EXTENDEDKEY = 0x1;
             keybd_event(keyCode, 0x45, KEYEVENTF_EXTENDEDKEY, 0);
