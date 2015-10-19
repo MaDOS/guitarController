@@ -1,0 +1,23 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.Properties.Resources.resources
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.pdb
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.Form1.resources
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.Form1 - Kopieren.resources
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.exe
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.csprojResolveAssemblyReference.cache
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.csproj.GenerateResource.Cache
+/fofGuitarController_driver/obj/x86/Debug/fofGuitarController_driver.csproj.FileListAbsolute.txt
+/fofGuitarController_driver/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/fofGuitarController_driver/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+/fofGuitarController_driver/bin/Debug/InTheHand.Net.Personal.xml
+/fofGuitarController_driver/bin/Debug/InTheHand.Net.Personal.dll
+/fofGuitarController_driver/bin/Debug/InputSimulator.xml
+/fofGuitarController_driver/bin/Debug/InputSimulator.pdb
+/fofGuitarController_driver/bin/Debug/InputSimulator.dll
+/fofGuitarController_driver/bin/Debug/fofGuitarController_driver.vshost.exe.manifest
+/fofGuitarController_driver/bin/Debug/fofGuitarController_driver.vshost.exe
+/fofGuitarController_driver/bin/Debug/fofGuitarController_driver.pdb
+/fofGuitarController_driver/bin/Debug/fofGuitarController_driver.exe
